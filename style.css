@@ -1,0 +1,16 @@
+*{
+    background-color: black;
+    color: white;
+
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    border-color: white;
+    border-radius: 10px;
+
+}
